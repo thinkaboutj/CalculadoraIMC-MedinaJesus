@@ -1,2 +1,0 @@
-# CalculadoraIMC-MedinaJesus
- 
